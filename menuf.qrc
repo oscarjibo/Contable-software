@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="menuf">
+    <file>menu.jpg</file>
+  </qresource>
+</RCC>
